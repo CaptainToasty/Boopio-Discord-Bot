@@ -1,7 +1,5 @@
 # Boopio-Discord-Bot
-Dependencies:
-
-   pip3 install discord.py
+Dependency: pip3 install discord.py
 
 A Lucio themed discord bot written in python3. 
 
